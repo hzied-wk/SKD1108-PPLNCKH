@@ -7,7 +7,6 @@ Kho lưu trữ mã nguồn, tài liệu tham khảo và báo cáo tiểu luận 
 ## 📂 Cấu trúc Dự án
 Dự án được tổ chức theo cấu trúc chuẩn của một đề tài nghiên cứu kết hợp thực nghiệm kỹ thuật:
 
-```
 SKD1108-PPLNCKH/
 ├── Documents/               # Tài liệu tham khảo, giáo trình và slide bài giảng
 ├── Mindmaps/                # Sơ đồ tư duy (Yêu cầu Tiểu Luận - C1)
@@ -15,3 +14,10 @@ SKD1108-PPLNCKH/
 │   ├── 15 - Nguyễn Duy Hà - B22DCCN256 - Final.pdf
 │   └── 15 - Nguyễn Duy Hà - B22DCCN256 - Final.docx
 └── README.md                # Tài liệu hướng dẫn này
+
+## 📌 Ghi chú
+- Repo chỉ phục vụ mục đích học tập.
+- Vui lòng trích dẫn nguồn khi sử dụng tài liệu.
+
+## 📜 Giấy phép
+MIT License
